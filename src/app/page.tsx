@@ -3,6 +3,27 @@ import { useEffect, useState, useRef } from 'react';
 import Link from 'next/link';
 import { useLang } from '@/lib/LangContext';
 import SemiGauge from '@/components/gauges/SemiGauge';
+import SensorGrid from '@/components/SensorGrid'; // adjust path if needed
+
+export default function Dashboard() {
+  return (
+    <div className="flex h-screen bg-black text-white overflow-hidden">
+      {/* LEFT SENSOR GRID - NEW */}
+      <div className="w-80 border-r border-cyan-500/30 p-4 overflow-y-auto">
+        <SensorGrid />
+      </div>
+
+      {/* CENTER MAP + everything else you already have */}
+      <div className="flex-1 flex flex-col">
+        {/* Your existing map and top bar stay here */}
+      </div>
+
+      {/* RIGHT ALERTS PANEL (we'll add next) */}
+    </div>
+  );
+}
+
+
 
 interface GaugeData {
   [key: string]: {
