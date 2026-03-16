@@ -6,10 +6,7 @@ import SemiGauge from '@/components/gauges/SemiGauge';
 import SensorGrid from '@/components/SensorGrid'; // adjust path if needed
 import TunisiaMap from '@/components/TunisiaMap';
 
-{/* Inside your dashboard layout */}
-<div className="flex-1 relative h-full">
-  <TunisiaMap />
-</div>
+
 
 
 export default function Dashboard() {
@@ -24,7 +21,11 @@ export default function Dashboard() {
       <div className="flex-1 flex flex-col">
         {/* Your existing map and top bar stay here */}
       </div>
-
+      {/* Inside your dashboard layout */}
+      <div className="flex-1 relative h-full">
+      <TunisiaMap />
+      </div>
+      
       {/* RIGHT ALERTS PANEL (we'll add next) */}
     </div>
   );
