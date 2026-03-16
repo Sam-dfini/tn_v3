@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useLang } from '@/lib/LangContext';
 import SemiGauge from '@/components/gauges/SemiGauge';
 import SensorGrid from '@/components/SensorGrid'; // adjust path if needed
-mport TunisiaMap from '@/components/TunisiaMap';
+import TunisiaMap from '@/components/TunisiaMap';
 
 {/* Inside your dashboard layout */}
 <div className="flex-1 relative h-full">
