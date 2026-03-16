@@ -34,6 +34,10 @@ export default function Home() {
         </div>
 
         {/* CENTER MAP - THIS SHOULD WORK */}
+        <div className="flex-1 relative h-full border border-cyan-500/30 rounded-xl overflow-hidden">
+        <TunisiaMap />
+        </div>
+        
         <div className="flex-1 relative">
           <MapContainer
             center={[34.0, 9.5]}
