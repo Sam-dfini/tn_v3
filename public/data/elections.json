@@ -1,0 +1,13 @@
+{
+  "last_election": {"year":2024,"type":"Presidential","winner":"Kais Saied","pct":90.7,"turnout":28.8,"credibility":"disputed"},
+  "next_scheduled": {"year":2026,"type":"Legislative","date":"2026-10-26","status":"uncertain"},
+  "electoral_system": "Presidential + unicameral parliament (post-2022 constitution)",
+  "opposition_participation": "Boycotted or barred",
+  "international_observers": "Limited access",
+  "scenarios": [
+    {"id":"a","name":"Controlled Election","probability":55,"description":"Saied holds managed elections with pre-approved candidates. Low turnout, result predetermined."},
+    {"id":"b","name":"Postponement","probability":30,"description":"Election postponed citing security concerns or economic emergency."},
+    {"id":"c","name":"Opposition Surge","probability":10,"description":"Unexpected mobilisation forces competitive election. Outcome unpredictable."},
+    {"id":"d","name":"No Election / Crisis","probability":5,"description":"Systemic collapse pre-empts electoral cycle entirely."}
+  ]
+}

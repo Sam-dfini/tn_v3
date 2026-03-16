@@ -1,0 +1,10 @@
+[
+  {"id":"steg","name":"STEG","sector":"Energy","state_owned":true,"debt_TND_M":8400,"employees":11000,"risk":"critical","status":"Technically insolvent. State-guaranteed debt."},
+  {"id":"sonede","name":"SONEDE","sector":"Water","state_owned":true,"debt_TND_M":2100,"employees":7800,"risk":"high","status":"Water rationing in 8 governorates. Infrastructure aging."},
+  {"id":"gct","name":"GCT (Phosphates)","sector":"Mining","state_owned":true,"debt_TND_M":1800,"employees":22000,"risk":"critical","status":"Output at 35% capacity due to social blockades."},
+  {"id":"bct","name":"BCT (Central Bank)","sector":"Finance","state_owned":true,"debt_TND_M":null,"employees":1200,"risk":"critical","status":"Foreign reserves at 88 days import cover. Dinar at 3.42/USD."},
+  {"id":"tav","name":"TAV Tunisie (Airports)","sector":"Transport","state_owned":false,"debt_TND_M":450,"employees":2800,"risk":"medium","status":"Profitable. Foreign JV insulated from worst pressures."},
+  {"id":"poulina","name":"Poulina Group","sector":"Conglomerate","state_owned":false,"debt_TND_M":890,"employees":18000,"risk":"medium","status":"Exposed to forex shortage for imported inputs. Profitable core."},
+  {"id":"attijari","name":"Attijari Bank","sector":"Banking","state_owned":false,"debt_TND_M":null,"employees":4200,"risk":"high","status":"NPL ratio rising. Significant sovereign debt exposure."},
+  {"id":"biat","name":"BIAT","sector":"Banking","state_owned":false,"debt_TND_M":null,"employees":4800,"risk":"high","status":"Largest private bank. Capital adequacy under stress."}
+]

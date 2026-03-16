@@ -1,0 +1,20 @@
+{
+  "happiness": {"value":34,"max":100,"label":"Happiness Index","unit":"%","status":"critical","trend":-3,"sparkline":[42,40,38,37,36,35,34]},
+  "population_pressure": {"value":38.4,"max":100,"label":"Youth Bulge","unit":"%","total":12100000,"status":"high","trend":0.4,"sparkline":[36.1,36.8,37.2,37.6,38.0,38.2,38.4]},
+  "water_stress": {"value":78,"max":100,"label":"Water Stress Index","unit":"%","status":"critical","trend":2,"sparkline":[68,70,72,74,75,76,78]},
+  "desertification": {"value":65,"max":100,"label":"Desertification Index","unit":"%","status":"high","trend":1,"sparkline":[58,59,61,62,63,64,65]},
+  "forest_fire": {"value":72,"max":100,"label":"Forest Fire Risk","unit":"%","status":"high","trend":5,"sparkline":[55,58,61,64,67,70,72]},
+  "co2": {"value":2.8,"max":10,"label":"CO₂ Emissions","unit":"t/cap/yr","status":"medium","trend":0.1,"sparkline":[2.4,2.5,2.5,2.6,2.7,2.7,2.8]},
+  "env_risk": {"value":69,"max":100,"label":"Environmental Risk","unit":"%","status":"high","trend":2,"sparkline":[60,62,64,65,67,68,69]},
+  "freedom": {"value":28,"max":100,"label":"Freedom Index","unit":"%","status":"critical","trend":-4,"sparkline":[48,44,40,36,34,30,28]},
+  "economic_liberty": {"value":42,"max":100,"label":"Economic Liberty","unit":"%","status":"critical","trend":-2,"sparkline":[52,50,48,47,45,43,42]},
+  "jobs": {"value":41,"max":100,"label":"Jobs & Employment","unit":"% critical","youth_unemployment":37.8,"status":"critical","trend":-1,"sparkline":[35,36,37,38,39,40,41]},
+  "public_safety": {"value":54,"max":100,"label":"Public Safety","unit":"% risk","status":"critical","trend":1,"sparkline":[48,49,50,51,52,53,54]},
+  "road_accidents": {"value":1240,"max":2000,"label":"Road Fatalities","unit":"/year","status":"high","trend":40,"sparkline":[1080,1110,1140,1170,1190,1210,1240]},
+  "suicide_rate": {"value":9.8,"max":20,"label":"Suicide Rate","unit":"/100k","status":"high","trend":0.6,"sparkline":[8.1,8.4,8.7,9.0,9.2,9.5,9.8]},
+  "elite_loyalty": {"value":72,"max":100,"label":"Elite Loyalty","unit":"%","status":"medium","trend":-2,"sparkline":[82,80,78,77,75,74,72]},
+  "bct_reserve": {"value":88,"max":180,"label":"BCT Reserve Countdown","unit":"days import cover","status":"critical","trend":-4,"sparkline":[140,130,120,112,104,96,88]},
+  "youth_rage": {"value":76,"max":100,"label":"Youth Rage Index","unit":"%","status":"critical","trend":3,"sparkline":[62,65,67,69,72,74,76]},
+  "phosphate_blockade": {"value":82,"max":100,"label":"Phosphate Blockade","unit":"% disruption","status":"critical","trend":2,"sparkline":[60,65,68,71,75,79,82]},
+  "migration_tension": {"value":71,"max":100,"label":"Migration Tension","unit":"%","status":"high","trend":4,"sparkline":[55,58,61,64,67,69,71]}
+}

@@ -1,0 +1,14 @@
+{
+  "updated": "2026-03-14",
+  "overall_index": 68,
+  "items": [
+    {"id":"bread","name":"Bread / Subsidised Flour","nameAr":"الخبز","nameFr":"Pain subventionné","severity":"critical","severityScore":88,"blackMarketPremium":45,"priceStrike":true,"daysStock":4,"unit":"kg","officialPrice":0.19,"blackPrice":0.28,"trend":"worsening"},
+    {"id":"cooking-oil","name":"Cooking Oil","nameAr":"الزيت","nameFr":"Huile de cuisson","severity":"high","severityScore":72,"blackMarketPremium":62,"priceStrike":false,"daysStock":7,"unit":"litre","officialPrice":2.40,"blackPrice":3.89,"trend":"worsening"},
+    {"id":"diesel","name":"Diesel Fuel","nameAr":"الغازوال","nameFr":"Gazole","severity":"critical","severityScore":81,"blackMarketPremium":38,"priceStrike":true,"daysStock":3,"unit":"litre","officialPrice":1.99,"blackPrice":2.75,"trend":"critical"},
+    {"id":"sugar","name":"Sugar","nameAr":"السكر","nameFr":"Sucre","severity":"high","severityScore":65,"blackMarketPremium":55,"priceStrike":false,"daysStock":9,"unit":"kg","officialPrice":0.64,"blackPrice":0.99,"trend":"stable"},
+    {"id":"milk-powder","name":"Milk Powder (infant)","nameAr":"حليب الأطفال","nameFr":"Lait maternisé","severity":"critical","severityScore":90,"blackMarketPremium":110,"priceStrike":true,"daysStock":2,"unit":"box","officialPrice":8.50,"blackPrice":17.85,"trend":"critical"},
+    {"id":"medicines","name":"Essential Medicines","nameAr":"الأدوية الأساسية","nameFr":"Médicaments essentiels","severity":"critical","severityScore":85,"blackMarketPremium":0,"priceStrike":false,"daysStock":5,"unit":"N/A","officialPrice":null,"blackPrice":null,"trend":"critical","note":"Not available at any price in 68% of public pharmacies"},
+    {"id":"fertilizer","name":"Agricultural Fertilizer","nameAr":"الأسمدة","nameFr":"Engrais agricoles","severity":"high","severityScore":70,"blackMarketPremium":48,"priceStrike":false,"daysStock":12,"unit":"bag 50kg","officialPrice":34,"blackPrice":50.3,"trend":"worsening"},
+    {"id":"lpg","name":"LPG Cylinders","nameAr":"قوارير الغاز","nameFr":"Bouteilles GPL","severity":"high","severityScore":74,"blackMarketPremium":85,"priceStrike":false,"daysStock":6,"unit":"cylinder","officialPrice":8.00,"blackPrice":14.80,"trend":"worsening"}
+  ]
+}

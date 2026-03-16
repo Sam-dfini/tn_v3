@@ -1,0 +1,22 @@
+[
+  {"id":1,"date":"2026-03-14","title":"Protest in Tunis over bread prices","type":"social","severity":"high","gov":"Tunis","lat":36.8065,"lng":10.1815},
+  {"id":2,"date":"2026-03-13","title":"BCT foreign reserve falls below 90-day import cover","type":"economic","severity":"critical","gov":"Tunis","lat":36.8188,"lng":10.1658},
+  {"id":3,"date":"2026-03-12","title":"Phosphate blockade in Gafsa extended","type":"labor","severity":"high","gov":"Gafsa","lat":34.4311,"lng":8.7757},
+  {"id":4,"date":"2026-03-11","title":"Irregular migration surge from Sfax coast","type":"security","severity":"high","gov":"Sfax","lat":34.7478,"lng":10.7661},
+  {"id":5,"date":"2026-03-10","title":"Power cuts reach 6h/day in interior governorates","type":"infrastructure","severity":"critical","gov":"Kasserine","lat":35.1671,"lng":8.8365},
+  {"id":6,"date":"2026-03-09","title":"UGTT announces general strike warning","type":"labor","severity":"high","gov":"Tunis","lat":36.8065,"lng":10.1815},
+  {"id":7,"date":"2026-03-08","title":"Ennahdha leader detained again","type":"political","severity":"medium","gov":"Tunis","lat":36.8065,"lng":10.1815},
+  {"id":8,"date":"2026-03-07","title":"Suicide rate spike reported in Sidi Bouzid","type":"social","severity":"high","gov":"Sidi Bouzid","lat":35.0382,"lng":9.4849},
+  {"id":9,"date":"2026-03-06","title":"IMF loan tranche delayed","type":"economic","severity":"critical","gov":"Tunis","lat":36.8065,"lng":10.1815},
+  {"id":10,"date":"2026-03-05","title":"Road fatality spike - 23 deaths in one week","type":"safety","severity":"high","gov":"Sousse","lat":35.8256,"lng":10.6369},
+  {"id":11,"date":"2026-03-04","title":"Water rationing in Kairouan","type":"environment","severity":"high","gov":"Kairouan","lat":35.6781,"lng":10.0963},
+  {"id":12,"date":"2026-03-03","title":"Youth unemployment at 37.8% - record high","type":"economic","severity":"critical","gov":"National","lat":33.8869,"lng":9.5375},
+  {"id":13,"date":"2026-03-02","title":"Forest fire in Ain Draham","type":"environment","severity":"medium","gov":"Jendouba","lat":36.7802,"lng":8.6872},
+  {"id":14,"date":"2026-03-01","title":"Medicine shortage at public hospitals","type":"health","severity":"critical","gov":"National","lat":36.8065,"lng":10.1815},
+  {"id":15,"date":"2026-02-28","title":"LPG cylinder shortage in south","type":"infrastructure","severity":"high","gov":"Medenine","lat":33.3549,"lng":10.5055},
+  {"id":16,"date":"2026-02-27","title":"Dinar hits 3.42 per USD","type":"economic","severity":"critical","gov":"Tunis","lat":36.8065,"lng":10.1815},
+  {"id":17,"date":"2026-02-26","title":"Police clash with protesters in Kasserine","type":"security","severity":"high","gov":"Kasserine","lat":35.1671,"lng":8.8365},
+  {"id":18,"date":"2026-02-25","title":"Internet throttling reported during protests","type":"political","severity":"medium","gov":"Tunis","lat":36.8065,"lng":10.1815},
+  {"id":19,"date":"2026-02-24","title":"Opposition coalition meets in Brussels","type":"political","severity":"medium","gov":"International","lat":36.8065,"lng":10.1815},
+  {"id":20,"date":"2026-02-23","title":"Agricultural output drops 18% - drought impact","type":"environment","severity":"high","gov":"Beja","lat":36.7256,"lng":9.1817}
+]

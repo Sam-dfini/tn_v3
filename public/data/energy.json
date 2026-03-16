@@ -1,0 +1,18 @@
+{
+  "gas_production_bcm": 2.1,
+  "oil_production_kbpd": 38,
+  "renewable_pct": 4.2,
+  "import_dependency_pct": 62,
+  "steg_debt_TND_million": 8400,
+  "daily_cuts_hours": 5.8,
+  "phosphate_output_mt": 2.8,
+  "phosphate_target_mt": 8.0,
+  "regions": [
+    {"gov":"Kasserine","cuts_h":7.2,"risk":"critical"},
+    {"gov":"Sidi Bouzid","cuts_h":6.8,"risk":"critical"},
+    {"gov":"Gafsa","cuts_h":6.5,"risk":"critical"},
+    {"gov":"Kef","cuts_h":5.9,"risk":"high"},
+    {"gov":"Siliana","cuts_h":5.4,"risk":"high"},
+    {"gov":"Tunis","cuts_h":2.1,"risk":"medium"}
+  ]
+}

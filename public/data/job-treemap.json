@@ -1,0 +1,37 @@
+{
+  "title": "Tunisia Job Risk Exposure",
+  "total_workers": 4100000,
+  "sectors": [
+    {"id":"public-admin","name":"Public Administration","workers":650000,"risk":"critical","riskScore":85,"avgWage":890,"education":"secondary","color":"#dc2626"},
+    {"id":"agriculture","name":"Agriculture & Fishing","workers":580000,"risk":"high","riskScore":72,"avgWage":420,"education":"primary","color":"#ef4444"},
+    {"id":"textile","name":"Textile & Clothing","workers":420000,"risk":"critical","riskScore":88,"avgWage":380,"education":"primary","color":"#dc2626"},
+    {"id":"construction","name":"Construction","workers":380000,"risk":"high","riskScore":68,"avgWage":510,"education":"primary","color":"#ef4444"},
+    {"id":"retail","name":"Retail & Trade","workers":360000,"risk":"high","riskScore":65,"avgWage":480,"education":"secondary","color":"#f97316"},
+    {"id":"transport","name":"Transport & Logistics","workers":280000,"risk":"medium","riskScore":55,"avgWage":620,"education":"secondary","color":"#eab308"},
+    {"id":"tourism","name":"Tourism & Hotels","workers":240000,"risk":"high","riskScore":70,"avgWage":490,"education":"secondary","color":"#f97316"},
+    {"id":"education","name":"Education","workers":220000,"risk":"medium","riskScore":42,"avgWage":780,"education":"tertiary","color":"#84cc16"},
+    {"id":"health","name":"Healthcare","workers":180000,"risk":"low","riskScore":28,"avgWage":950,"education":"tertiary","color":"#22c55e"},
+    {"id":"ict","name":"ICT & Tech","workers":95000,"risk":"low","riskScore":18,"avgWage":1450,"education":"tertiary","color":"#16a34a"},
+    {"id":"mining","name":"Mining & Phosphate","workers":88000,"risk":"critical","riskScore":92,"avgWage":730,"education":"secondary","color":"#dc2626"},
+    {"id":"finance","name":"Finance & Banking","workers":75000,"risk":"low","riskScore":22,"avgWage":1320,"education":"tertiary","color":"#22c55e"},
+    {"id":"manufacturing","name":"Other Manufacturing","workers":320000,"risk":"high","riskScore":66,"avgWage":440,"education":"secondary","color":"#f97316"},
+    {"id":"informal","name":"Informal Sector","workers":680000,"risk":"critical","riskScore":95,"avgWage":220,"education":"primary","color":"#991b1b"}
+  ],
+  "risk_by_pay": [
+    {"range":"< 400 TND/mo","workers":1280000,"riskScore":88},
+    {"range":"400–700 TND/mo","workers":1560000,"riskScore":65},
+    {"range":"700–1200 TND/mo","workers":890000,"riskScore":38},
+    {"range":"> 1200 TND/mo","workers":370000,"riskScore":19}
+  ],
+  "risk_by_education": [
+    {"level":"No formal education","workers":410000,"riskScore":91},
+    {"level":"Primary","workers":980000,"riskScore":82},
+    {"level":"Secondary","workers":1850000,"riskScore":61},
+    {"level":"Tertiary","workers":860000,"riskScore":24}
+  ],
+  "wages_at_risk": {
+    "total_wage_bill_monthly_TND": 1890000000,
+    "at_risk_pct": 54.2,
+    "at_risk_TND": 1023480000
+  }
+}
